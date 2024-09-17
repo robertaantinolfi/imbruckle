@@ -8,8 +8,8 @@
 @font-face {
     font-family: 'SuissleIntl-Medium';
     src: url('type/SuisseIntl-Medium.otf');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: light;
+    font-style: light;
 }
 
 @font-face {
@@ -21,9 +21,9 @@
 
 /*ROOT*/
 :root {
-    --fontsizeS: .7em;
+    --fontsizeXS: .7em;
+    --fontsizeS: 1.1em;
     --fontsizeM: 1.4em;
-    --fontsizeL: 1.3em;
     --padding: 0.2rem;
     --black: #000;
     --white: #fff;
@@ -77,6 +77,10 @@ html body {
     height: 100%;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 #container {
     display: flex;
     flex-wrap: wrap;
@@ -107,9 +111,10 @@ header {
     padding: 0;
     list-style: none;
     position: fixed;
-    width: 25%;
+    width: 33.33%;
     overflow-y: scroll;
     container-type: inline-size;
+    text-align: center;
 }
 
 .menu li {
@@ -117,7 +122,7 @@ header {
     flex-shrink: 1;
     align-content: center;
     line-height: .8;
-    padding-top: 20px;
+    padding-top: 25px;
 }
 
 .menu li span {
@@ -132,7 +137,7 @@ header {
 [class*='home'] {
     overflow-y: scroll;
     font-size: var(--fontsizeM);
-    width: 75%;
+    width: 66.66%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -187,6 +192,7 @@ header {
 .food {
     flex: 1 1 0%;
     padding-left: 50%;
+    scroll-behavior: smooth;
 }
 
 .food div {
@@ -255,14 +261,19 @@ li a {
 
 .image {
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+    padding: 100px 0 200px 0;
 }
 
-.image img {
-    max-width: 90%;
-    max-height: 35em;
-    padding-bottom: 100px;
+.vt {
+    width: 50%;
+}
+
+.ht {
+    width: 75%;
 }
 
 label {
@@ -272,7 +283,8 @@ label {
 
 #ch1,
 #ch2,
-#ch3 {
+#ch3,
+#header-mobile {
     display: none;
 }
 
@@ -292,6 +304,10 @@ label {
     display: none;
 }
 
+#header-mobile p {
+    text-decoration: none;
+}
+
 footer {
     background: rgb(180, 228, 110);
     padding: 10px;
@@ -299,57 +315,62 @@ footer {
 }
 
 footer p {
-    font-size: var(--fontsizeS);
+    font-size: var(--fontsizeXS);
 }
 
 #im-brukle {
     background: rgb(140, 197, 98);
-    font-size: clamp(1rem, 37.5cqi, 10rem);
+    font-size: clamp(1rem, 35.5cqi, 13rem);
 }
 
-#im-brukle-active {
+#im-brukle-active,
+#im-brukle:hover {
     background: rgb(130, 100, 190);
-    font-size: clamp(1rem, 37.5cqi, 10rem);
+    font-size: clamp(1rem, 35.5cqi, 13rem);
 }
 
 #hofladle {
     background: rgb(252, 210, 104);
-    font-size: clamp(1rem, 45cqi, 13rem);
+    font-size: clamp(1rem, 46cqi, 15.2rem);
 }
 
-#hofladle-active {
+#hofladle-active,
+#hofladle:hover {
     background: rgb(249, 154, 222);
-    font-size: clamp(1rem, 45cqi, 13rem);
+    font-size: clamp(1rem, 46cqi, 15.2rem);
 }
 
 #brennerei {
     background: rgb(225, 81, 82);
-    font-size: clamp(1rem, 42.2cqi, 11rem);
+    font-size: clamp(1rem, 41cqi, 14rem)
 }
 
-#brennerei-active {
+#brennerei-active,
+#brennerei:hover {
     background: rgb(89, 111, 198);
-    font-size: clamp(1rem, 42.2cqi, 11rem);
+    font-size: clamp(1rem, 41cqi, 14rem)
 }
 
 #weinlaube {
     background: rgb(160, 198, 228);
-    font-size: clamp(1rem, 39.5cqi, 11rem);
+    font-size: clamp(1rem, 37cqi, 14.2rem);
 }
 
-#weinlaube-active {
+#weinlaube-active,
+#weinlaube:hover {
     background: rgb(201, 102, 174);
-    font-size: clamp(1rem, 39.5cqi, 11rem);
+    font-size: clamp(1rem, 37cqi, 14.2rem);
 }
 
 #kontakt {
     background: rgb(248, 118, 73);
-    font-size: clamp(1rem, 52.5cqi, 14rem);
+    font-size: clamp(1rem, 52.5cqi, 17.5rem);
 }
 
-#kontakt-active {
+#kontakt-active,
+#kontakt:hover {
     background: rgb(146, 222, 169);
-    font-size: clamp(1rem, 52.5cqi, 14rem);
+    font-size: clamp(1rem, 52.5cqi, 17.5rem);
 }
 
 #social {
@@ -366,4 +387,42 @@ footer p {
 
 #impressum {
     background: rgb(201, 105, 189);
+}
+
+/*Disable smooth scrolling when users have prefers-reduced-motion enabled*/
+ @media screen and (prefers-reduced-motion: reduce) {
+	html, .food {
+		scroll-behavior: auto;
+	}
+}
+
+@media screen and (min-width: 0px) and (max-width: 1100px) {
+    [class*='home'] {
+        overflow-y: scroll;
+        font-size: var(--fontsizeS);
+        width:100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    #container {
+        height: 100vh;
+        height: 100dvh;
+    }
+    #container header,
+    #container .home {
+        flex: 1;
+    }
+    .menu {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        position: relative;
+        width: 100%;
+        overflow-y: scroll;
+        container-type: inline-size;
+    }
 }
