@@ -32,22 +32,22 @@
                     <br>
                     <p><strong>Zu unseren Produkten<br>vom Brückle</strong></p>
                     <ul role="list">
-                        <li><a href="#honig">&#8627; Honig</a></li>
-                        <li><a href="#frucht">&#8627; Fruchtaufstrich hausgemacht</a></li>
-                        <li><a href="#wurst">&#8627; Dosenwurst hausgemacht</a></li>
-                        <li><a href="#walnusse">&#8627; Walnüsse*</a></li>
-                        <li><a href="#backwaren">&#8627; Backwaren</a></li>
+                        <li><a onclick="BoldText(this);" href="#honig">&#8627; Honig</a></li>
+                        <li><a onclick="BoldText(this);" href="#frucht">&#8627; Fruchtaufstrich hausgemacht</a></li>
+                        <li><a onclick="BoldText(this);" href="#wurst">&#8627; Dosenwurst hausgemacht</a></li>
+                        <li><a onclick="BoldText(this);" href="#walnusse">&#8627; Walnüsse*</a></li>
+                        <li><a onclick="BoldText(this);" href="#backwaren">&#8627; Backwaren</a></li>
                         <br>
-                        <li><a href="#rotwein">&#8627; Rotwein</a></li>
-                        <li><a href="#weißwein">&#8627; Weißwein</a></li>
-                        <li><a href="#schillerwein">&#8627; Schillerwein/Roséwein</a></li>
-                        <li><a href="#sekt">&#8627; Sekt</a></li>
+                        <li><a onclick="BoldText(this);" href="#rotwein">&#8627; Rotwein</a></li>
+                        <li><a onclick="BoldText(this);" href="#weißwein">&#8627; Weißwein</a></li>
+                        <li><a onclick="BoldText(this);" href="#schillerwein">&#8627; Schillerwein/Roséwein</a></li>
+                        <li><a onclick="BoldText(this);" href="#sekt">&#8627; Sekt</a></li>
                         <br>
-                        <li><a href="#saft">&#8627; Saft</a></li>
+                        <li><a onclick="BoldText(this);" href="#saft">&#8627; Saft</a></li>
                         <br>
-                        <li><a href="#most">&#8627; Most</a></li>
-                        <li><a href="#likor">&#8627; Likör</a></li>
-                        <li><a href="#schnaps">&#8627; Schnaps</a></li>
+                        <li><a onclick="BoldText(this);" href="#most">&#8627; Most</a></li>
+                        <li><a onclick="BoldText(this);" href="#likor">&#8627; Likör</a></li>
+                        <li><a onclick="BoldText(this);" href="#schnaps">&#8627; Schnaps</a></li>
                     </ul>
                     <br>
                     <p><strong>Öffnungszeiten</strong></p>
@@ -185,5 +185,16 @@
             </footer>
         </div>
     </div>
+    <script>
+        var currElem = null; //will hold the element that is bold now
+        function BoldText(elem) {
+            if (elem != currElem) { //do thing if you're clicking on a bold link
+            if (currElem) //if a link bold right now unbold it
+            currElem.style.fontWeight='normal';
+            currElem = elem; //assign this element as the current one
+            elem.style.fontWeight='bold';  //make the element clicked bold
+            }
+        }
+    </script>
 </body>
 </html>
