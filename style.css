@@ -90,14 +90,15 @@ html {
 }
 
 #container header {
-    flex: 1 1 25%;
+    flex: 1 1 0%;
 }
 
 #container .home {
-    flex: 1 1 75%;
+    flex: 1 1 0%;
 }
 
-header {
+header,
+.nach-oben {
     font-family: 'Brückle';
     font-stretch: 1%;
     font-weight: 300;
@@ -112,7 +113,7 @@ header {
     padding: 0;
     list-style: none;
     position: fixed;
-    width: 33.33%;
+    width: 33.4%;
     overflow-y: scroll;
     container-type: inline-size;
     text-align: center;
@@ -123,7 +124,7 @@ header {
     flex-shrink: 1;
     align-content: center;
     line-height: .8;
-    padding-top: 25px;
+    padding-top: 22px;
 }
 
 .menu li span {
@@ -138,7 +139,7 @@ header {
 [class*='home'] {
     overflow-y: scroll;
     font-size: var(--fontsizeM);
-    width: 66.66%;
+    width: 66.6%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -153,7 +154,7 @@ header {
 }
 
 .home-brennerei {
-    background: rgb(225, 81, 82);
+    background: rgb(255, 157, 82);
 }
 
 .home-kontakt {
@@ -262,6 +263,15 @@ li a {
 
 .image {
     text-align: center;
+    padding: 10px 10px 0 10px;
+}
+
+.img {
+    width: 100%;
+}
+
+.images {
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -277,21 +287,37 @@ li a {
     width: 75%;
 }
 
+.nach-oben {
+    background: rgb(225, 80, 80);
+    font-size: clamp(1rem, 28.7cqi, 10rem);
+    line-height: 1;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.nach-oben a {
+    text-decoration: none;
+}
+
 label {
-    text-decoration: underline;
     cursor: pointer;
+}
+
+[id*='label'] {
+    text-decoration: underline;
 }
 
 #ch1,
 #ch2,
 #ch3,
-#header-mobile {
+#ch-header {
     display: none;
 }
 
 #ch1:checked ~ #more1,
 #ch2:checked ~ #more2,
-#ch3:checked ~ #more3 {
+#ch3:checked ~ #more3,
+#ch-header:checked ~ #more-header {
     display: block;
 }
 
@@ -303,6 +329,10 @@ label {
 
 [id*='more'] {
     display: none;
+}
+
+#more-header {
+    transition: all .5s cubic-bezier(.93,.88,.1,.8);
 }
 
 #header-mobile p {
@@ -319,70 +349,124 @@ footer p {
     font-size: var(--fontsizeXS);
 }
 
-#im-brukle {
+#im-bruckle {
     background: rgb(140, 197, 98);
-    font-size: clamp(1rem, 35.5cqi, 13rem);
+    font-size: clamp(1rem, 32.5cqi, 12rem);
 }
 
-#im-brukle-active,
-#im-brukle:hover {
+#im-bruckle-mobile {
+    background: rgb(140, 197, 98);
+    font-size: clamp(1rem, 32.5cqi, 13rem);
+    text-align: center;
+    line-height: .8;
+    padding-top: 15px;
+}
+
+#hofladle-mobile {
+    background: rgb(252, 210, 104);
+    font-size: clamp(1rem, 44cqi, 14rem);
+    text-align: center;
+    line-height: .8;
+    padding-top: 15px;
+}
+
+#brennerei-mobile {
+    background: rgb(225, 81, 82);
+    font-size: clamp(1rem, 41cqi, 14rem);
+    text-align: center;
+    line-height: .8;
+    padding-top: 15px;
+}
+
+#weinlaube-mobile {
+    background: rgb(160, 198, 228);
+    font-size: clamp(1rem, 38cqi, 14rem);
+    text-align: center;
+    line-height: .8;
+    padding-top: 15px;
+}
+
+#kontakt-mobile {
+    background: rgb(248, 118, 73);
+    font-size: clamp(1rem, 52cqi, 14rem);
+    text-align: center;
+    line-height: .8;
+    padding-top: 15px;
+}
+
+#social-mobile {
+    background: rgb(238, 181, 102);
+    font-size: clamp(1rem, 25cqi, 9rem);
+    text-align: center;
+    justify-content: center;
+    line-height: .9;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+#im-bruckle-active,
+#im-bruckle:hover {
     background: rgb(130, 100, 190);
-    font-size: clamp(1rem, 35.5cqi, 13rem);
+    font-size: clamp(1rem, 32.5cqi, 12rem);
 }
 
 #hofladle {
     background: rgb(252, 210, 104);
-    font-size: clamp(1rem, 46cqi, 15.2rem);
+    font-size: clamp(1rem, 44cqi, 15.5rem);
 }
 
 #hofladle-active,
 #hofladle:hover {
     background: rgb(249, 154, 222);
-    font-size: clamp(1rem, 46cqi, 15.2rem);
+    font-size: clamp(1rem, 44cqi, 15.5rem);
 }
 
 #brennerei {
     background: rgb(225, 81, 82);
-    font-size: clamp(1rem, 41cqi, 14rem)
+    font-size: clamp(1rem, 41cqi, 14.5rem)
 }
 
 #brennerei-active,
 #brennerei:hover {
     background: rgb(89, 111, 198);
-    font-size: clamp(1rem, 41cqi, 14rem)
+    font-size: clamp(1rem, 41cqi, 14.5rem)
 }
 
 #weinlaube {
     background: rgb(160, 198, 228);
-    font-size: clamp(1rem, 37cqi, 14.2rem);
+    font-size: clamp(1rem, 38cqi, 15rem);
 }
 
 #weinlaube-active,
 #weinlaube:hover {
     background: rgb(201, 102, 174);
-    font-size: clamp(1rem, 37cqi, 14.2rem);
+    font-size: clamp(1rem, 38cqi, 15rem);
 }
 
 #kontakt {
     background: rgb(248, 118, 73);
-    font-size: clamp(1rem, 52.5cqi, 17.5rem);
+    font-size: clamp(1rem, 52cqi, 18.2rem);
+    padding-top: 25px;
 }
 
 #kontakt-active,
 #kontakt:hover {
     background: rgb(146, 222, 169);
-    font-size: clamp(1rem, 52.5cqi, 17.5rem);
+    font-size: clamp(1rem, 52cqi, 18.2rem);
+    padding-top: 25px;
 }
 
 #social {
     background: rgb(238, 181, 102);
     display: flex;
     gap: 20px;
-    padding: 10px;
+    padding: 20px;
     align-items: center;
 }
 
-#social a {
+#social a,
+#social-mobile a {
     width: 50px;
 }
 
@@ -400,11 +484,24 @@ footer p {
 @media screen and (min-width: 0px) and (max-width: 1100px) {
     [class*='home'] {
         overflow-y: scroll;
-        font-size: var(--fontsizeS);
+        font-size: var(--fontsizeM);
         width:100%;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+    }
+    footer p {
+        font-size: 1em;
+    }
+    .mobile-hide {
+        display: none;
+    }
+    .images {
+        gap: 50px;
+        padding: 50px 0 100px 0;
+    }
+    .vt, .ht {
+        width: 80%;
     }
     #container {
         height: 100vh;
@@ -425,5 +522,33 @@ footer p {
         width: 100%;
         overflow-y: scroll;
         container-type: inline-size;
+    }
+    .home-impressum [class*='intro'] {
+        display: block;
+    }
+    .intro-hofladle {
+        padding: 0;
+        display: block;
+    }
+    .home-impressum {
+        font-size: var(--fontsizeS);
+        display: flex;
+    }
+    .list {
+        position: relative;
+        width: 100%;
+        padding: 10px;
+    }
+    
+    .food {
+        scroll-behavior: smooth;
+        padding-left: 0;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1101px) {
+    .mobile {
+        display: none;
     }
 }
