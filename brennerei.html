@@ -9,10 +9,31 @@
 </head>
 <body>
     <div id="container">
-        <header>
+        <header class="mobile">
+            <nav>
+                <input type="checkbox" id="ch-header">
+                <label for="ch-header">
+                    <p id="brennerei-mobile">Brennerei</p>
+                </label>
+                <div id="more-header">
+                    <ul role="list">
+                        <li id="im-bruckle-mobile"><a href="index.html">Im Brückle</a></li>
+                        <li id="hofladle-mobile"><a href="hofladle.html">Hoflädle</a></li>
+                        <li id="weinlaube-mobile"><a href="weinlaube.html">Weinlaube</a></li>
+                        <li id="kontakt-mobile"><a href="kontakt.html">Kontakt</a></li>
+                        <li id="social-mobile">
+                            <a href="#"><img src="ig.svg" alt="Instagram logo"></a>
+                            <a href="#"><img src="fb.svg" alt="Facebook logo"></a>
+                            <a href="#"><img src="yt.svg" alt="Youtube logo"></a>
+                        </li>
+                    </ul>
+                </div>  
+            </nav>
+        </header>
+        <header class="mobile-hide">
             <nav>
                 <ul class="menu">
-                    <li id="im-brukle"><a href="index.html">Im Brükle</a></li>
+                    <li id="im-bruckle"><a href="index.html">Im Brückle</a></li>
                     <li id="hofladle"><a href="hofladle.html">Hoflädle</a></li>
                     <li id="brennerei-active"><a href="#">Brennerei</a></li>
                     <li id="weinlaube"><a href="weinlaube.html">Weinlaube</a></li>
@@ -26,15 +47,18 @@
             </nav>
         </header>
         <div class="home-brennerei">
+            <div class="image mobile">
+                <img class="img" src="img/03_brennerei/03_brennerei_01.png" alt="">
+            </div>
             <div class="intro">
-                <p><strong>Brennerei</strong></p>
+                <p class="mobile-hide"><strong>Brennerei</strong></p>
                 <p>
                     Wir brennen seit vielen Jahren, jetzt schon in der zweiten Generation, unsere eigenen Schnäpse und stellen auch Liköre her. Im Laufe der Zeit entwickelte sich unsere Hausbrennerei zu einem weiteren Standbein. Unsere große Auswahl an Schnäpsen und Likören finden Sie auf unserer Speisekarte.
                     <br><br>Selbstverständlich schenken wir alle unsere guten Tropfen auch in der Weinlaube aus.
                     <br><br>Gerne brennen wir auch für Sie im Lohn. Falls Sie von Ihrem eigenen Obst einen Schnaps gebrannt haben möchten, dann melden Sie sich bei uns. Bringen Sie Ihre vergorene Maische vorbei und wir brennen für Sie Ihren eigenen Schnaps.
                 </p>
             </div>
-            <div class="image">
+            <div class="images mobile-hide">
                 <img class="ht" src="img/03_brennerei/03_brennerei_01.png" alt="">
             </div>
             <footer>
