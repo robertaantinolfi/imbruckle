@@ -9,10 +9,31 @@
 </head>
 <body>
     <div id="container">
-        <header>
+        <header class="mobile">
+            <nav>
+                <input type="checkbox" id="ch-header">
+                <label for="ch-header">
+                    <p id="hofladle-mobile">Hoflädle</p>
+                </label>
+                <div id="more-header">
+                    <ul role="list">
+                        <li id="im-bruckle-mobile"><a href="index.html">Im Brückle</a></li>
+                        <li id="brennerei-mobile"><a href="brennerei.html">Brennerei</a></li>
+                        <li id="weinlaube-mobile"><a href="weinlaube.html">Weinlaube</a></li>
+                        <li id="kontakt-mobile"><a href="kontakt.html">Kontakt</a></li>
+                        <li id="social-mobile">
+                            <a href="#"><img src="ig.svg" alt="Instagram logo"></a>
+                            <a href="#"><img src="fb.svg" alt="Facebook logo"></a>
+                            <a href="#"><img src="yt.svg" alt="Youtube logo"></a>
+                        </li>
+                    </ul>
+                </div>  
+            </nav>
+        </header>
+        <header class="mobile-hide">
             <nav>
                 <ul class="menu">
-                    <li id="im-brukle"><a href="index.html">Im Brükle</a></li>
+                    <li id="im-bruckle"><a href="index.html">Im Brückle</a></li>
                     <li id="hofladle-active"><a href="">Hoflädle</a></li>
                     <li id="brennerei"><a href="brennerei.html">Brennerei</a></li>
                     <li id="weinlaube"><a href="weinlaube.html">Weinlaube</a></li>
@@ -173,6 +194,9 @@
                     </div>
                 </div>
             </div>
+            <div class="mobile nach-oben">
+                <a onclick="scrollToTop()">nach oben &#8593;</a>
+            </div>
             <footer>
                 <p>
                     Weinlaube Im Brückle
@@ -185,16 +209,5 @@
             </footer>
         </div>
     </div>
-    <script>
-        var currElem = null; //will hold the element that is bold now
-        function BoldText(elem) {
-            if (elem != currElem) { //do thing if you're clicking on a bold link
-            if (currElem) //if a link bold right now unbold it
-            currElem.style.fontWeight='normal';
-            currElem = elem; //assign this element as the current one
-            elem.style.fontWeight='bold';  //make the element clicked bold
-            }
-        }
-    </script>
 </body>
 </html>
