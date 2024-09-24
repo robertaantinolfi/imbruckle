@@ -161,6 +161,11 @@ header,
     background: rgb(182, 121, 206);
 }
 
+.home-kontakt .intro {
+    height: 100vh;
+    height: 100dvh;
+}
+
 .home-impressum {
     background: rgb(252, 223, 140);
     font-size: 1em;
@@ -276,7 +281,7 @@ li a {
     flex-direction: column;
     align-items: center;
     gap: 100px;
-    padding: 100px 0 200px 0;
+    padding: 50px 0 200px 0;
 }
 
 .vt {
@@ -343,6 +348,7 @@ footer {
     background: rgb(180, 228, 110);
     padding: 10px;
     margin: 0;
+    z-index: 999;
 }
 
 footer p {
@@ -354,7 +360,7 @@ footer p {
     font-size: clamp(1rem, 32.5cqi, 12rem);
 }
 
-#im-bruckle-mobile {
+.im-bruckle-mobile {
     background: rgb(140, 197, 98);
     font-size: clamp(1rem, 32.5cqi, 13rem);
     text-align: center;
@@ -362,7 +368,11 @@ footer p {
     padding-top: 15px;
 }
 
-#hofladle-mobile {
+#im-bruckle-arrow {
+    font-size: clamp(1rem, 25.5cqi, 9rem);
+}
+
+.hofladle-mobile {
     background: rgb(252, 210, 104);
     font-size: clamp(1rem, 44cqi, 14rem);
     text-align: center;
@@ -370,7 +380,11 @@ footer p {
     padding-top: 15px;
 }
 
-#brennerei-mobile {
+#hofladle-arrow {
+    font-size: clamp(1rem, 32cqi, 11rem);
+}
+
+.brennerei-mobile {
     background: rgb(225, 81, 82);
     font-size: clamp(1rem, 41cqi, 14rem);
     text-align: center;
@@ -378,7 +392,11 @@ footer p {
     padding-top: 15px;
 }
 
-#weinlaube-mobile {
+#brennerei-arrow {
+    font-size: clamp(1rem, 30cqi, 11rem);
+}
+
+.weinlaube-mobile {
     background: rgb(160, 198, 228);
     font-size: clamp(1rem, 38cqi, 14rem);
     text-align: center;
@@ -386,7 +404,11 @@ footer p {
     padding-top: 15px;
 }
 
-#kontakt-mobile {
+#weinlaube-arrow {
+    font-size: clamp(1rem, 28.5cqi, 10rem);
+}
+
+.kontakt-mobile {
     background: rgb(248, 118, 73);
     font-size: clamp(1rem, 52cqi, 14rem);
     text-align: center;
@@ -394,7 +416,11 @@ footer p {
     padding-top: 15px;
 }
 
-#social-mobile {
+#kontakt-arrow {
+    font-size: clamp(1rem, 36cqi, 12rem);
+}
+
+.social-mobile {
     background: rgb(238, 181, 102);
     font-size: clamp(1rem, 25cqi, 9rem);
     text-align: center;
@@ -466,7 +492,7 @@ footer p {
 }
 
 #social a,
-#social-mobile a {
+.social-mobile a {
     width: 50px;
 }
 
