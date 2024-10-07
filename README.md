@@ -1,4 +1,4 @@
 # imbruckle
 
 Website for Im Brückle.
-Live here https://robertaantinolfi.github.io/imbruckle/
+Live here https://im-bruckle.netlify.app/
