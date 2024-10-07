@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Im Brückle - Hofladle</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <script src="/assets/script.js"></script>
+</head>
+<body>
+    
+<header class="mobile">
+    <input type="checkbox" id="ch-header">
+    <label for="ch-header">
+        <div id="hofladle-arrow">
+            <p class="hofladle-mobile">Hoflädle <span class="arrow" onClick="toggleArrow()">&#8595;</span></p>
+        </div>
+    </label>
+    <div id="more-header">
+        <ul role="list">
+            <li class="im-bruckle-mobile"><a href="/">Im Brückle</a></li>
+            <li class="brennerei-mobile"><a href="/brennerei">Brennerei</a></li>
+            <li class="weinlaube-mobile"><a href="/weinlaube">Weinlaube</a></li>
+            <li class="kontakt-mobile"><a href="/kontakt">Kontakt</a></li>
+            <li class="social-mobile">
+                <a href="#"><img src="/assets/img/ig.svg" alt="Instagram logo"></a>
+                <a href="#"><img src="/assets/img/fb.svg" alt="Facebook logo"></a>
+                <a href="#"><img src="/assets/img/yt.svg" alt="Youtube logo"></a>
+            </li>
+        </ul>
+    </div>  
+</header>
+<header class="mobile-hide">
+    <nav>
+        <ul class="menu">
+            <li id="im-bruckle"><a href="/">Im Brückle</a></li>
+            <li id="hofladle-active"><a href="">Hoflädle</a></li>
+            <li id="brennerei"><a href="/brennerei">Brennerei</a></li>
+            <li id="weinlaube"><a href="/weinlaube">Weinlaube</a></li>
+            <li id="kontakt"><a href="/kontakt">Kontakt</a></li>
+            <li id="social">
+                <a href="#"><img src="/assets/img/ig.svg" alt="Instagram logo"></a>
+                <a href="#"><img src="/assets/img/fb.svg" alt="Facebook logo"></a>
+                <a href="#"><img src="/assets/img/yt.svg" alt="Youtube logo"></a>
+            <li id="impressum"><a href="/impressum">Impressum und Datenschutz</a></li>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="main-hofladle">
+    <div class="image mobile">
+        <img class="img" src="/assets/img/03_brennerei/03_brennerei_01.png" alt="">
+    </div>
+    <div class="list">
+        <p><strong>Hoflädle</strong></p>
+        <br>
+        <p><strong>Zu unseren Produkten<br>vom Brückle</strong></p>
+        <ul role="list">
+            <li><a onclick="BoldText(this);" href="#honig">&#8627; Honig</a></li>
+            <li><a onclick="BoldText(this);" href="#frucht">&#8627; Fruchtaufstrich hausgemacht</a></li>
+            <li><a onclick="BoldText(this);" href="#wurst">&#8627; Dosenwurst hausgemacht</a></li>
+            <li><a onclick="BoldText(this);" href="#walnusse">&#8627; Walnüsse*</a></li>
+            <li><a onclick="BoldText(this);" href="#backwaren">&#8627; Backwaren</a></li>
+            <br>
+            <li><a onclick="BoldText(this);" href="#rotwein">&#8627; Rotwein</a></li>
+            <li><a onclick="BoldText(this);" href="#weißwein">&#8627; Weißwein</a></li>
+            <li><a onclick="BoldText(this);" href="#schillerwein">&#8627; Schillerwein/Roséwein</a></li>
+            <li><a onclick="BoldText(this);" href="#sekt">&#8627; Sekt</a></li>
+            <br>
+            <li><a onclick="BoldText(this);" href="#saft">&#8627; Saft</a></li>
+            <br>
+            <li><a onclick="BoldText(this);" href="#most">&#8627; Most</a></li>
+            <li><a onclick="BoldText(this);" href="#likor">&#8627; Likör</a></li>
+            <li><a onclick="BoldText(this);" href="#schnaps">&#8627; Schnaps</a></li>
+        </ul>
+        <br>
+        <p><strong>Öffnungszeiten</strong></p>
+        <p>Dienstag bis Freitag<br>von 17:00 bis 19:00 Uhr</p><br>
+        <p>Samstag<br>von 09:00 bis 11:00 Uhr</p><br>
+        <p>Monta geschlossen<br><br>Während unserer Besenöffnungszeit gibt es samstags auch kleine Marmorkuchen.</p>
+    </div>
+    <div class="food">
+        <div id="honig">
+            <p><strong>Honig</strong></p><br>
+            <p>Blütenhonig, 500g<br>7,50€ (15,00€/kg)</p><br>
+            <p>Rapshonig, 500g<br>7,50€ (15,00€/kg)</p><br>
+            <p>Akazienhonig, 500g<br>7,50€ (15,00€/kg)</p><br>
+            <p>Tannenhonig, 500g<br>7,50€ (15,00€/kg)</p>
+        </div>
+        <div id="frucht">
+            <p><strong>Fruchtaufstrich hausgemacht</strong></p>
+            <p>verschiedene Sorten aus Fruchtsaft oder aus der ganzen Frucht</p><br>
+            <p>200g Glas<br>3,00€ (1,50€/100g)</p><br>
+            <p>400g Glas<br>5,00€ (1,25€/100g)</p>
+        </div>
+        <div id="wurst">
+            <p><strong>Dosenwurst hausgemacht</strong></p><br>
+            <p>Leberwurst<br>200g, 3,00€ (1,50€/100g)<br>400g, 4,40€ (1,10€/100g)</p><br>
+            <p>Griebenwurst<br>200g, 3,00€ (1,50€/100g)</p><br>
+            <p>Schweinskopfsülze<br>400g, 4,40€ (1,10€/100g)</p><br>
+            <p>grobe Bratwurst<br>200g, 3,00€ (1,50€/100g)</p><br>
+            <p>Schmalzfleisch<br>400g, 4,40€ (1,10€/100g)</p><br>
+            <p>Griebenschmalz<br>200g Becher, 3,50 (1,40€/100g)</p><br>
+            <p>Griebenschmalz mit Chilli<br>200g Becher, 3,50 (1,40€/100g)</p>
+        </div>
+        <div id="walnusse">
+            <p><strong>Walnüsse*</strong></p>
+            <p>1kg, 6,00€</p>
+        </div>
+        <div id="backwaren">
+            <p><strong>Backwaren im Brückle</strong></p>
+            <p>Wir backen für Sie leckere Backwaren aus unserem Holzofen:</p><br>
+            <p>Freitags und samstags:<br>Bio-Holzofenbrot (Weizenmischbrot)</p><br>
+            <p>Freitags:<br>Bio-Dinkelvollkornbrot</p><br>
+            <p>Samstags:<br>Hefezöpfe mit und ohne Rosinen</p><br>
+            <p>freitags und samstags<br>Bauernbrot*<br>600g, 5,00€ (0,50€/100g)<br>1000g, 3,00€ (0,50€/100g)</p><br>
+            <p>freitags<br>Dinkel-Vollkornbrot*<br>600g, 4,00€ (0,67€/100g)</p><br>
+            <p>samstags<br>Hefezopf mit oder ohne Rosinen<br>6,00€</p><br>
+            <p style="font-size: .7em;">
+                *Biologisches Erzeungnis
+                <br>DE-ÖKO-006
+                <br><br>Änderungen und Druckfehler vorbehaltren<br>Alle Preise enthalten die gesätzliche Mehrwertsteuer
+            </p>
+        </div>
+        <div id="rotwein">
+            <p><strong>Rotwein</strong></p><br>
+            <p>Trollinger trocken*<br>1,00l, 6,50€</p><br>
+            <p>Trollinger mit Lemberger*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Muskattrollinger*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>St. Laurent trocken*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Monarch®*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Regent trocken®*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Lemberger trocken*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Dornfelder trocken*<br>0,75l, 5,00€ (6,67€/l)</p>
+        </div>
+        <div id="weißwein">
+            <p><strong>Weißwein</strong></p><br>
+            <p>Kerner trocken*<br>1,00l, 6,50€</p><br>
+            <p>Riesling trocken* Müller-Thurgau*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Solaris trocken®*<br>0,75l, 5,00€ (6,67€/l)</p><br>
+            <p>Gewürztraminer trocken*<br>0,75l, 5,00€ (6,67€/l)</p>
+        </div>
+        <div id="schillerwein">
+            <p><strong>Schillerwein/Roséwein</strong></p><br>
+            <p>Rotling trocken*<br>1,00l, 6,50€</p><br>
+            <p>Lemberger Rosé trocken*<br>0,75l, 5,00€ (6,67€/l)</p>
+        </div>
+        <div id="sekt">
+            <p><strong>Sekt</strong></p><br>
+            <p>Muskat-Trollinger trocken*<br>0,75l, 11,50€ (15,33€/l)</p>
+        </div>
+        <div id="saft">
+            <p><strong>Saft</strong></p><br>
+            <p>Traubensaft*<br>rot oder weiß<br>1,0l, 3,00€, (inkl. 0,15€ Pfand)</p><br>
+            <p>Apfelsaft naturtrüb*<br>1,0l, 2,00€, (inkl. 0,15€ Pfand)</p>
+        </div>
+        <div id="most">
+            <p><strong>Most</strong></p><br>
+            <p>Apfel-Birnen-Most trocken<br>1,0l, 3,00€</p>
+        </div>
+        <div id="likor">
+            <p><strong>Likör 22% vol.</strong></p>
+            <p>0,5l Flasche, 10,20€ (20,40€/l)</p><br>
+            <p>0,2l Flasche, 5,50€ (27,50€/l)</p>
+        </div>
+        <div id="schnaps">
+            <p><strong>Schnaps 40% vol.</strong></p><br>
+            <p>Alexander-Lucas-Birnenbrand*<br>1,0l, 20,00€</p><br>
+            <p>Blutwurzel*<br>0,5l, 10,00€ (20,00€/l)</p><br>
+            <p>Harrow Sweet Birnenbrand*<br>0,5l, 11,00€ (22,00€/l)</p><br>
+            <p>Himbeerbrand<br>0,5l, 25,00€ (50,00€/l)</p><br>
+            <p>Himbeergeist<br>0,5l, 25,00€ (50,00€/l)</p><br>
+            <p>Holunderbeere*<br>0,5l, 10,00€ (10,00€/l)<br>1,0l, 15,00€</p><br>
+            <p>Kirschwasser*<br>1,0l, 15,00€</p><br>
+            <p>Kräuter<br>1,0l, 14,00€</p><br>
+            <p>Mirabellenwasser*<br>1,0l, 15,00€</p><br>
+            <p>Obstbrand aus Äpfel und Birnen*<br>1,0l, 11,00€</p><br>
+            <p>Palmisch Birnenbrand*<br>1,0l, 22,00€</p><br>
+            <p>Quittenbrand*<br>0,5l, 11,00€ (22,00€/l)<br>1,0l, 20,00€</p><br>
+            <p>Schweizer-Wasser-Birnenbrand*<br>1,0l, 20,00€</p><br>
+            <p>Speierlingbrand<br>0,375l, 41,00€ (109,33,00€/l)</p><br>
+            <p>Vogelbeere*<br>0,5l, 10,00€ (20,00€/l)</p><br>
+            <p>Wacholder*<br>0,5l, 10,00€ (20,00€/l)<br>1,0l, 15,00€</p><br>
+            <p>Weintresterbrand*<br>1,0l, 14,00€</p><br>
+            <p>Weißdorn*<br>0,5l, 10,00€ (20,00€/l)</p><br>
+            <p>Zwetschgenwasser*<br>1,0l, 15,00€</p><br>
+            <p style="font-size: .7em;">
+                *Biologisches Erzeungnis DE-ÖKO-006
+                <br>°Pilzwiderstandsfähige Rebsorte
+                <br><br>Änderungen und Druckfehler vorbehaltren<br>Alle Preise enthalten die gesätzliche Mehrwertsteuer
+            </p>
+        </div>
+    </div>
+    <div class="mobile nach-oben">
+        <a onclick="scrollToTop()">nach oben &#8593;</a>
+    </div>
+    <footer>
+        <p>
+            Weinlaube Im Brückle
+            <br>Familie Michael Volz
+            <br>Im Brückle 3
+            <br>70839 Gerlingen
+            <br>Telefon 07156-22246
+            <br><br><a href="/impressum">Impressum, Datenschutz</a>
+        </p>
+    </footer>
+</div>
+
+</body>
+</html>
