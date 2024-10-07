@@ -1,0 +1,22 @@
+{
+  "name": "imbruckle",
+  "version": "1.0.0",
+  "description": "Website for Im Brückle. Live here https://robertaantinolfi.github.io/imbruckle/",
+  "main": "script.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@sanity/cli": "^3.59.1",
+    "@sanity/client": "^6.22.1",
+    "dotenv": "^16.4.5",
+    "g": "^2.0.1"
+  }
+}
