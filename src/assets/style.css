@@ -127,7 +127,7 @@ header,
     overflow-y: scroll;
     font-size: var(--fontsizeM);
     width: 100%;
-    padding-left: 33%;
+    padding-left: 33.4%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -141,7 +141,7 @@ header,
     background: rgb(93, 144, 214);
     font-size: var(--fontsizeM);
     width: 100%;
-    padding-left: 33%;
+    padding-left: 33,4%;
 }
 
 .home-brennerei {
