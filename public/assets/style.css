@@ -37,6 +37,7 @@
     -ms-overflow-style: none; /* hide scrollbar for Internet Explorer, Edge */
     scrollbar-width: none; /* hide scrollbar for Firefox */
     -webkit-font-smoothing: antialiased;
+    overscroll-behavior: none;
 }
 
 *,:after,:before {
