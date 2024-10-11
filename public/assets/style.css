@@ -560,6 +560,7 @@ footer p {
         position: sticky;
         top: 0;
         z-index: 999;
+        background: rgb(238, 181, 102);
     }
     [class*='home'] {
         overflow: scroll;
