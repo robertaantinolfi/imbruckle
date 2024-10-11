@@ -37,7 +37,6 @@
     -ms-overflow-style: none; /* hide scrollbar for Internet Explorer, Edge */
     scrollbar-width: none; /* hide scrollbar for Firefox */
     -webkit-font-smoothing: antialiased;
-    overscroll-behavior: none;
 }
 
 *,:after,:before {
@@ -79,7 +78,6 @@ html body {
     overflow: auto;
     margin: 0;
     padding: 0;
-    overscroll-behavior: none;
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
 }
