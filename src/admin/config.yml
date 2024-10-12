@@ -19,62 +19,62 @@ collections:
     file: "src/_includes/honig.md"
     fields:
   - label: "Hoflädle - Fruchtaufstrich hausgemacht"
-    name: "hofladle"
+    name: "frucht"
     file: "src/_includes/frucht.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Dosenwurst hausgemacht"
-    name: "hofladle"
-    file: "src/_includes/honig.md"
+    name: "wurst"
+    file: "src/_includes/wurst.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Walnüsse"
-    name: "hofladle"
+    name: "walnusse"
     file: "src/_includes/walnusse.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Backwaren im Brückle"
-    name: "hofladle"
+    name: "backwaren"
     file: "src/_includes/backwaren.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Rotwein"
-    name: "hofladle"
+    name: "rotwein"
     file: "src/_includes/rotwein.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Weißwein"
-    name: "hofladle"
+    name: "weißwein"
     file: "src/_includes/weißwein.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Schillerwein/Roséwein"
-    name: "hofladle"
+    name: "schillerwein"
     file: "src/_includes/schillerwein.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Sekt"
-    name: "hofladle"
+    name: "sekt"
     file: "src/_includes/sekt.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Saft"
-    name: "hofladle"
+    name: "saft"
     file: "src/_includes/saft.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Most"
-    name: "hofladle"
+    name: "most"
     file: "src/_includes/most.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Likör"
-    name: "hofladle"
+    name: "likor"
     file: "src/_includes/likor.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Schnaps"
-    name: "hofladle"
+    name: "schnaps"
     file: "src/_includes/schnaps.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
@@ -103,4 +103,3 @@ collections:
     file: "src/_includes/datenschutz.nd"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
-
