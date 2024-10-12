@@ -96,11 +96,11 @@ collections:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Impressum"
     name: "impressum"
-    file: "src/_includes/impressum.nd"
+    file: "src/_includes/impressum.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Datenschutz"
     name: "datenschutz"
-    file: "src/_includes/datenschutz.nd"
+    file: "src/_includes/datenschutz.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
