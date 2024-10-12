@@ -4,7 +4,7 @@ layout: kontakt.njk
 ---
 **Newsletter**
 
-Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an [newsletter(at)imbrueckle.de](mailto:newsletter@imbrueckle.de)     
+Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an [newsletter(at)imbrueckle.de](mailto:newsletter@imbrueckle.de)[](ciao.com)
 
 <br>
 
@@ -14,6 +14,10 @@ Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an
 Im Brückle 3\
 70839 Gerlingen\
 Telefon 07156-22246
+
+ciao
+
+mi chiamo roberta
 
 <br>
 
