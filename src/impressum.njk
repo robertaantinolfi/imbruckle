@@ -1,0 +1,72 @@
+---
+title: Impressum und Datenschutz
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="/assets/script.js"></script>
+</head>
+<body>
+    <header class="mobile">
+        <input type="checkbox" id="ch-header">
+        <label for="ch-header">
+            <div id="im-bruckle-arrow">
+                <p class="im-bruckle-mobile">Im Brückle <span class="arrow" onClick="toggleArrow()">&#8595;</span></p>
+            </div>
+        </label>
+        <div id="more-header">
+            <ul role="list">
+                <li class="hofladle-mobile"><a href="/hofladle">Hoflädle</a></li>
+                <li class="brennerei-mobile"><a href="/brennerei">Brennerei</a></li>
+                <li class="weinlaube-mobile"><a href="/weinlaube">Weinlaube</a></li>
+                <li class="kontakt-mobile"><a href="/kontakt">Kontakt</a></li>
+                <li class="social-mobile">
+                    <a href="#" class="instagram"></a>
+                    <a href="#" class="facebook"></a>
+                    <a href="#" class="youtube"></a>
+                </li>
+            </ul>
+        </div>  
+    </header>
+    <header class="mobile-hide">
+        <nav>
+            <ul class="menu">
+                <li id="im-bruckle"><a href="/">Im Brückle</a></li>
+                <li id="hofladle"><a href="/hofladle">Hoflädle</a></li>
+                <li id="brennerei"><a href="/brennerei">Brennerei</a></li>
+                <li id="weinlaube"><a href="/weinlaube">Weinlaube</a></li>
+                <li id="kontakt"><a href="/kontakt">Kontakt</a></li>
+                <li id="social">
+                    <a href="#" class="instagram"></a>
+                    <a href="#" class="facebook"></a>
+                    <a href="#" class="youtube"></a>
+                <li id="impressum"><a href="/impressum">Impressum und Datenschutz</a></li>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="home-impressum">
+        <div class="intro">
+            <div class="impressum">
+            {% markdown %}
+                {%- include "impressum.md" -%}
+            {% endmarkdown %}
+            </div>
+            <div class="datenschutz">
+            {% markdown %}
+                {%- include "datenschutz.md" -%}
+            {% endmarkdown %}
+            </div>
+        </div>
+        <div class="mobile nach-oben">
+            <a onclick="scrollToTop()"><p>nach oben &#8593;</p></a>
+        </div>
+    </div>
+</body>
+</html>

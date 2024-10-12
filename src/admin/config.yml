@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/assets/img"
+public_folder: "/assets/img"
+
+collections:
+- label: "Pages"
+  name: "pages"
+  files:
+  - label: "Im Brückle"
+    name: "homepage"
+    file: "src/index.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle"
+    name: "hofladle"
+    file: "src/hofladle.njk"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Brennerei"
+    name: "brennerei"
+    file: "src/brennerei.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Weinlaube"
+    name: "weinlaube"
+    file: "src/weinlaube.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Kontakt"
+    name: "kontakt"
+    file: "src/kontakt.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Impressum"
+    name: "impressum"
+    file: "src/impressum.njk"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+
