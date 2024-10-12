@@ -21,7 +21,11 @@ Telefon 07156-22246
 
 A81 Ausfahrt Ditzingen nach Gerlingen  
 
+<br>
+
 Gerlingen wieder verlassen in Richtung Leonberg  
+
+<br>
 
 nach dem Ortsschild einer der\
 Aussiedlerhöfe auf der rechten Seite.
