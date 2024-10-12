@@ -18,6 +18,7 @@ collections:
     name: "Honig"
     file: "src/_includes/honig.md"
     fields:
+    - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Fruchtaufstrich hausgemacht"
     name: "frucht"
     file: "src/_includes/frucht.md"
