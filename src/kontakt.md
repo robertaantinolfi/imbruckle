@@ -15,10 +15,6 @@ Im Brückle 3\
 70839 Gerlingen\
 Telefon 07156-22246
 
-ciao
-
-mi chiamo roberta
-
 <br>
 
 **Anfahrt Auto**
