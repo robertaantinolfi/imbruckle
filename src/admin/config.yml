@@ -14,9 +14,9 @@ collections:
     file: "src/index.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
-  - label: "Hoflädle"
+  - label: "Hoflädle - Honig"
     name: "hofladle"
-    file: "src/hofladle.njk"
+    file: "src/_includes/honig.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Brennerei"
