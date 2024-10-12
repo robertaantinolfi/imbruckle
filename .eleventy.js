@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addPassthroughCopy('./src/assets');
+    eleventyConfig.addPassthroughCopy('./src/admin');
 
     eleventyConfig.addPairedShortcode("markdown", (content) => {
         return md.render(content);
