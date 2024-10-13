@@ -1,0 +1,106 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/assets/img"
+public_folder: "/assets/img"
+
+collections:
+- label: "Pages"
+  name: "pages"
+  files:
+  - label: "Im Brückle"
+    name: "homepage"
+    file: "src/index.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Honig"
+    name: "Honig"
+    file: "src/_includes/honig.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Fruchtaufstrich hausgemacht"
+    name: "frucht"
+    file: "src/_includes/frucht.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Dosenwurst hausgemacht"
+    name: "wurst"
+    file: "src/_includes/wurst.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Walnüsse"
+    name: "walnusse"
+    file: "src/_includes/walnusse.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Backwaren im Brückle"
+    name: "backwaren"
+    file: "src/_includes/backwaren.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Rotwein"
+    name: "rotwein"
+    file: "src/_includes/rotwein.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Weißwein"
+    name: "weißwein"
+    file: "src/_includes/weißwein.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Schillerwein/Roséwein"
+    name: "schillerwein"
+    file: "src/_includes/schillerwein.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Sekt"
+    name: "sekt"
+    file: "src/_includes/sekt.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Saft"
+    name: "saft"
+    file: "src/_includes/saft.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Most"
+    name: "most"
+    file: "src/_includes/most.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Likör"
+    name: "likor"
+    file: "src/_includes/likor.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Schnaps"
+    name: "schnaps"
+    file: "src/_includes/schnaps.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Brennerei"
+    name: "brennerei"
+    file: "src/brennerei.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Weinlaube"
+    name: "weinlaube"
+    file: "src/weinlaube.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Kontakt"
+    name: "kontakt"
+    file: "src/kontakt.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Impressum"
+    name: "impressum"
+    file: "src/_includes/impressum.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Datenschutz"
+    name: "datenschutz"
+    file: "src/_includes/datenschutz.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
