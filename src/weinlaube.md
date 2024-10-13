@@ -32,3 +32,13 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 **Scheune**
 
 Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
+
+
+
+![](/assets/img/weinlaube_volz_03.jpeg)
+
+![](/assets/img/weinlaube_volz_04.jpeg)
+
+![](/assets/img/weinlaube_volz_01.jpeg)
+
+![](/assets/img/weinlaube_volz_02.jpeg)
