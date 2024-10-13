@@ -1,30 +1,26 @@
 ---
 title: Kontakt
-layout: 'kontakt.njk'
+layout: kontakt.njk
 ---
 **Newsletter**
 
-Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an [newsletter(at)imbrueckle.de](mailto:newsletter@imbrueckle.de)     
+Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an newsletter(at)imbrueckle.de[](www.google.com)
 
-**Weinlaube im Brückle**  
+**Weinlaube im Brückle**\
 **Familie Michael Volz**     
 
-Im Brückle 3  
-70839 Gerlingen  
+Im Brückle 3\
+70839 Gerlingen\
 Telefon 07156-22246
-
-  
 
 **Anfahrt Auto**
 
 A81 Ausfahrt Ditzingen nach Gerlingen  
-  
-Gerlingen wieder verlassen in Richtung Leonberg  
-  
-nach dem Ortsschild einer der  
-Aussiedlerhöfe auf der rechten Seite.
 
-  
+Gerlingen wieder verlassen in Richtung Leonberg  
+
+nach dem Ortsschild einer der\
+Aussiedlerhöfe auf der rechten Seite.
 
 **Bahn und Bus**
 
