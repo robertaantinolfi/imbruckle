@@ -29,7 +29,7 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 
 **Scheune**
 
-Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie über unser Kontaktformular anfragen.
+Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
 
 ![](/assets/img/04_weinlaube/04_weinlaube_01.jpg)
 ![](/assets/img/04_weinlaube/04_weinlaube_02.jpg)
