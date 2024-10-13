@@ -8,6 +8,8 @@ layout: weinlaube.njk
 
 5. Januar bis 19. Januar 2025 (6. Januar geöffnet)
 
+<br>
+
 Dienstag bis Samstag\
 ab 12 Uhr bis 23 Uhr\
 Sonntag ab 12 Uhr bis 21 Uhr\
