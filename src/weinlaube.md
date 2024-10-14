@@ -5,7 +5,8 @@ layout: weinlaube.njk
 **Weinlaube**
 
 20. Oktober bis 3. November 2024
-21. Januar bis 19. Januar 2025 (6. Januar geöffnet)
+
+5.Januar bis 19. Januar 2025 (6. Januar geöffnet)
 
 <br>
 
