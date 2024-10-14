@@ -12,11 +12,11 @@ Bio-Dinkelvollkornbrot*
 
 <br>
 
-**nur freitags**\
+**freitags**\
 Bio-Dinkelvollkornbrot
 
 Dinkel-Vollkornbrot*\
 <br>
 
-**nur samstags**\
+**samstags**\
 Hefezöpfe mit und ohne Rosinen
