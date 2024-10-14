@@ -1,7 +1,7 @@
 **Weißwein**
 
 Kerner trocken*\
-1,00l, 6,50€\
+1,00l, 5,00€\
 <br>
 
 Riesling trocken\* Müller-Thurgau\*\
