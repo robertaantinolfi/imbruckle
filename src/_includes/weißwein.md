@@ -19,4 +19,4 @@ Solaris trocken°*\
 <br>
 
 Gewürztraminer trocken*\
-0,75l, 5,00€ (6,67€/l)
+0,75l, 6,00€ (8,00€/l)
