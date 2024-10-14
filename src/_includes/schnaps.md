@@ -72,7 +72,7 @@ Weißdorn*\
 <br>
 
 Zwetschgenwasser*\
-1,0l, 15,00€\
+1,0l, 18,00€\
 <br>
 
 \*Biologisches Erzeungnis DE-ÖKO-006\
