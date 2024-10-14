@@ -9,6 +9,10 @@ Im Brückle 3\
 70839 Gerlingen\
 Telefon 07156-22246
 
+Mobil: 0163 5002004
+
+E-Mail: info@imbrueckle.de
+
 <br>
 
 **Anfahrt Auto**
