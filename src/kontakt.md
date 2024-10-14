@@ -2,13 +2,7 @@
 title: Kontakt
 layout: kontakt.njk
 ---
-**Newsletter**
-
-Um sich für unseren Newsletter anzumelden, schreiben Sie uns bitte eine Mail an newsletter(at)imbrueckle.de
-
-<br>[](www.google.com)
-
-**Weinlaube im Brückle**\
+[](www.google.com)**Weinlaube im Brückle**\
 **Familie Michael Volz**     
 
 Im Brückle 3\
@@ -34,4 +28,4 @@ Aussiedlerhöfe auf der rechten Seite.
 
 **Bahn und Bus**
 
-Stadtbahn U6 bis Endhaltestelle Gerlingen, dann mit Stadtbus Richtung Leonberg, Haltestelle Ringstraße, weiter zu Fuß ca. 10 Minuten. kommen Sie zu uns:
+Stadtbahn U6 bis Endhaltestelle Gerlingen, dann mit Stadtbus Richtung Leonberg, Haltestelle Ringstraße, weiter zu Fuß ca. 10 Minuten.
