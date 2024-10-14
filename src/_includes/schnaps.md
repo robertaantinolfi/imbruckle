@@ -12,29 +12,25 @@ Harrow Sweet Birnenbrand*\
 0,5l, 11,00€ (22,00€/l)\
 <br>
 
-Himbeerbrand\
-0,5l, 25,00€ (50,00€/l)\
-<br>
-
 Himbeergeist\
 0,5l, 25,00€ (50,00€/l)\
 <br>
 
 Holunderbeere*\
-0,5l, 10,00€ (10,00€/l)\
-1,0l, 15,00€\
+0,5l, 11,00€ (22,00€/l)\
+1,0l, 18,00€\
 <br>
 
 Kirschwasser*\
-1,0l, 15,00€\
+0,5l, 11,00€ (22,00€/l)\
 <br>
 
 Kräuter\
-1,0l, 14,00€\
+1,0l, 15,00€\
 <br>
 
 Mirabellenwasser*\
-1,0l, 15,00€\
+1,0l, 18,00€\
 <br>
 
 Obstbrand aus Äpfel und Birnen*\
@@ -42,7 +38,7 @@ Obstbrand aus Äpfel und Birnen*\
 <br>
 
 Palmisch Birnenbrand*\
-1,0l, 22,00€\
+ausverkauft\
 <br>
 
 Quittenbrand*\
@@ -55,20 +51,20 @@ Schweizer-Wasser-Birnenbrand*\
 <br>
 
 Speierlingbrand\
-0,375l, 41,00€ (109,33,00€/l)\
+0,375l, 41,00€ (109,33€/l)\
 <br>
 
 Vogelbeere*\
-0,5l, 10,00€ (20,00€/l)\
+0,5l, 11,00€ (20,00€/l)\
 <br>
 
 Wacholder*\
-0,5l, 10,00€ (20,00€/l)\
-1,0l, 15,00€\
+0,5l, 11,00€ (20,00€/l)\
+1,0l, 18,00€\
 <br>
 
 Weintresterbrand*\
-1,0l, 14,00€\
+1,0l, 15,00€\
 <br>
 
 Weißdorn*\
