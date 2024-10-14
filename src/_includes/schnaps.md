@@ -68,7 +68,7 @@ Weintresterbrand*\
 <br>
 
 Weißdorn*\
-0,5l, 10,00€ (20,00€/l)\
+0,5l, 11,00€ (22,00€/l)\
 <br>
 
 Zwetschgenwasser*\
