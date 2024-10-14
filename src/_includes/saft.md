@@ -6,4 +6,4 @@ rot oder weiß\
 <br>
 
 Apfelsaft naturtrüb*\
-1,0l, ausverkauft
+ausverkauft
