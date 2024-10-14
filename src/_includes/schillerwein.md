@@ -1,6 +1,6 @@
 **Schillerwein/Roséwein**
 
-Rotling trocken*\
+Rotling*\
 1,00l, 6,00€\
 <br>
 
