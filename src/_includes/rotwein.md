@@ -20,7 +20,7 @@ Monarch°*\
 0,75l, 5,00€ (6,67€/l)\
 <br>
 
-Regent trocken®*\
+Regent trocken°*\
 0,75l, 5,00€ (6,67€/l)\
 <br>
 
