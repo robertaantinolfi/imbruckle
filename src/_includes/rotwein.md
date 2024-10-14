@@ -1,7 +1,7 @@
 **Rotwein**
 
 Trollinger trocken*\
-1,00l, 6,50€\
+1,0l\
 <br>
 
 Trollinger mit Lemberger*\
