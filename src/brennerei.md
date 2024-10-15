@@ -10,15 +10,9 @@ Seit vielen Jahren brennen wir unsere eigenen Schnäpse und stellen auch Liköre
 
 ![](/assets/img/03_brennerei_volz_01.jpeg)
 
-![]()
-
-![]()
-
 ![](/assets/img/03_brennerei_volz_04.jpeg)
 
 ![](/assets/img/03_brennerei_volz_05.jpeg)
-
-![]()
 
 ![](/assets/img/03_brennerei_volz_07.jpeg)
 
