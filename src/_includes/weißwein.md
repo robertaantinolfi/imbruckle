@@ -10,7 +10,12 @@ Müller-Thurgau trocken*
 
 <br>
 
-Riesling trocken\* Müller-Thurgau\*\
+Riesling trocken* \
+0,75l, 5,00€ (6,67€/l)\
+<br>
+
+Müller-Thurgau*
+
 0,75l, 5,00€ (6,67€/l)\
 <br>
 
