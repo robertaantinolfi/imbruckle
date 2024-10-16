@@ -7,7 +7,9 @@ Inhaber und verantwortlich für den Inhalt:\
 Geschäftsführung Michael Volz\
 Im Brückle 3\
 70839 Gerlingen\
-Telefon 07156-22246\
+Telefon 0715622246
+
+Mobil 0163 5002004 \
 Telefax 07156 1776816\
 <br>
 www.imbrueckle.de\
