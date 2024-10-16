@@ -80,4 +80,4 @@ Zwetschgenwasser*\
 <br>
 
 Änderungen und Druckfehler vorbehalten.\
-Alle Preise enthalten die gesätzliche Mehrwertsteuer.
+Alle Preise enthalten die gesetzliche Mehrwertsteuer.
