@@ -1,7 +1,7 @@
 **Schillerwein/Roséwein**
 
 Rotling*\
-1,00l, 6,00€\
+1,0l, 6,00€\
 <br>
 
 Lemberger Rosé trocken*\
