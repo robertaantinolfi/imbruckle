@@ -6,7 +6,8 @@ Leberwurst\
 <br>
 
 Griebenwurst\
-3,50€ (1,75 €/100g)\
+200g, 3,50€ (1,75 €/100g)\
+400g, 5,00€ (1,25€/100g)\
 <br>
 
 Schweinskopfsülze\
@@ -14,7 +15,8 @@ Schweinskopfsülze\
 <br>
 
 grobe Bratwurst\
-3,50€ (1,75 €/100g)\
+200g, 3,50€ (1,75 €/100g)\
+400g, 5,00€ (1,25€/100g)\
 <br>
 
 Schmalzfleisch\
