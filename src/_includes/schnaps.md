@@ -79,5 +79,5 @@ Zwetschgenwasser*\
 °Pilzwiderstandsfähige Rebsorte\
 <br>
 
-Änderungen und Druckfehler vorbehaltren\
-Alle Preise enthalten die gesätzliche Mehrwertsteuer
+Änderungen und Druckfehler vorbehalten.\
+Alle Preise enthalten die gesätzliche Mehrwertsteuer.
