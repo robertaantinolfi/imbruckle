@@ -50,7 +50,7 @@ Schweizer-Wasser-Birnenbrand*\
 1,0l, 20,00€\
 <br>
 
-Speierlingbrand\
+Speierlingbrand*\
 0,375l, 41,00€ (109,33€/l)\
 <br>
 
