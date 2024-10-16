@@ -6,7 +6,7 @@ Kerner trocken*\
 
 Müller-Thurgau trocken* 
 
-0,75l 5,00€ 
+0,75l, 5,00€ (6,67€/l)
 
 <br>
 
