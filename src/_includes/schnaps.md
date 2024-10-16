@@ -22,7 +22,7 @@ Holunderbeere*\
 <br>
 
 Kirschwasser*\
-0,5l, 11,00€ (22,00€/l)\
+1,0l, 18,00€\
 <br>
 
 Kräuter\
