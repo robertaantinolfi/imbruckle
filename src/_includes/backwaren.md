@@ -3,8 +3,7 @@
 Wir backen für Sie leckere Backwaren aus unserem Holzofen:\
 <br>
 
-**freitags und samstags**\
-Bio-Holzofenbrot (Weizenmischbrot)
+**freitags und samstags**
 
 Bio-Bauernbrot*(Weizenmischbrot)
 
@@ -13,9 +12,7 @@ Bio-Dinkelvollkornbrot*
 <br>
 
 **freitags**\
-Bio-Dinkelvollkornbrot
-
-Dinkel-Vollkornbrot*\
+Bio-Dinkelvollkornbrot*\
 <br>
 
 **samstags**\
