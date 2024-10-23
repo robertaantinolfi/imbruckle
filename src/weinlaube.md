@@ -25,6 +25,8 @@ Bitte informieren Sie sich auf unserer Webseite über die aktuellen Öffnungen.
 
 <br>
 
+Menu
+
 **Besenstube**
 
 Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer sicher gehen möchte, darf sich gern im Voraus anmelden. Parkplätze für PKW und Busse sind direkt am Haus.  
@@ -34,6 +36,10 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 **Scheune**
 
 Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
+
+<br>
+
+\[Download menu](/assets/karte_oktober2024_ohnePreis.pdf)
 
 ![](/assets/img/weinlaube_volz_03.jpeg)
 
