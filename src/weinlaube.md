@@ -39,7 +39,9 @@ Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firme
 
 <br>
 
-\[Download menu](/assets/img/karte_oktober2024_ohnePreis.pdf)
+[Download menu](/assets/img/karte_oktober2024_ohnePreis.pdf)
+
+<br>
 
 ![](/assets/img/weinlaube_volz_03.jpeg)
 
