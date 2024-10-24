@@ -37,7 +37,7 @@ Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firme
 
 <br>
 
-<a href="/assets/karte_oktober2024_ohnePreis.pdf" target="_blank">Download menu</a>
+<a href="/assets/karte_oktober2024_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
 
 <br>
 
