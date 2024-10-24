@@ -25,8 +25,6 @@ Bitte informieren Sie sich auf unserer Webseite über die aktuellen Öffnungen.
 
 <br>
 
-Menu
-
 **Besenstube**
 
 Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer sicher gehen möchte, darf sich gern im Voraus anmelden. Parkplätze für PKW und Busse sind direkt am Haus.  
