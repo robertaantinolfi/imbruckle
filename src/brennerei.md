@@ -8,7 +8,7 @@ Seit vielen Jahren brennen wir unsere eigenen Schnäpse und stellen auch Liköre
 
 ![](/assets/img/01_brennerei_01.gif)
 
-![](/assets/img/01_brennerei_02.gif)
+![](/assets/img/01_brennerei_02.jpeg)
 
 ![](/assets/img/01_brennerei_04.gif)
 
