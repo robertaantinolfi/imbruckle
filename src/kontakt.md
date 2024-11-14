@@ -3,7 +3,7 @@ title: Kontakt
 layout: kontakt.njk
 ---
 [](www.google.com)**Weinlaube im Brückle**\
-**Familie Michael Volz**     
+**Familie Volz**     
 
 Im Brückle 3\
 70839 Gerlingen\
