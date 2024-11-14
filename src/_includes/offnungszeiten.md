@@ -1,3 +1,8 @@
+\*Biologisches Erzeungnis  
+DE-ÖKO-006  
+\*Piltzwiderstandsfähige Rebsorte
+<br><br>
+
 **Öffnungszeiten**
 
 Dienstag bis Freitag  
