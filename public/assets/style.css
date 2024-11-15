@@ -181,18 +181,15 @@ header,
 }
 
 .list {
-    width: 50%;
     padding-top: 10px;
     padding-left: 10px;
-    position: sticky;
     float: left;
     top: 0;
-    height: 1050px;
     box-sizing: border-box;
 }
 
 .food {
-    padding-left: 50%;
+    margin-left: 50%;
     scroll-behavior: smooth;
 }
 
@@ -640,7 +637,7 @@ footer p {
     
     .food {
         scroll-behavior: smooth;
-        padding-left: 0;
+        margin-left: 0;
         width: 100%;
     }
 }
@@ -648,5 +645,21 @@ footer p {
 @media screen and (min-width: 801px) {
     .mobile {
         display: none;
+    }
+    .list {
+        position: fixed;
+        width: 33.3%;
+        padding: 10px 0 10px 10px;
+        top: 0;
+        bottom: 0;
+        overflow-y: scroll;
+        height: auto;
+    }
+    .list footer {
+        margin: -10px;
+        margin-top: 20px;
+    }
+    .main-hofladle {
+        display: flex;
     }
 }
