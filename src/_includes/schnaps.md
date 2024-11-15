@@ -77,9 +77,5 @@ Zwetschgenwasser*\
 1,0l, 18,00€\
 <br>
 
-\*Biologisches Erzeungnis DE-ÖKO-006\
-°Pilzwiderstandsfähige Rebsorte\
-<br>
-
 Änderungen und Druckfehler vorbehalten.\
 Alle Preise enthalten die gesetzliche Mehrwertsteuer.
