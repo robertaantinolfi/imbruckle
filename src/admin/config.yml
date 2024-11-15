@@ -84,7 +84,7 @@ collections:
     file: "src/_includes/schnaps.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
-  - label: "Öffnungszeiten"
+  - label: "Hoflädle - Öffnungszeiten"
     name: "öffnungszeiten"
     file: "src/_includes/offnungszeiten.md"
     fields:
