@@ -1,6 +1,6 @@
 \*Biologisches Erzeungnis\
 DE-ÖKO-006\
-°Piltzwiderstandsfähige Rebsorte
+°Pilzwiderstandsfähig Rebsorte
 <br><br>
 
 **Öffnungszeiten**
