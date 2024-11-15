@@ -39,6 +39,11 @@ collections:
     file: "src/_includes/backwaren.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Hoflädle - Eier"
+    name: "eier"
+    file: "src/_includes/eier.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
   - label: "Hoflädle - Rotwein"
     name: "rotwein"
     file: "src/_includes/rotwein.md"
@@ -77,6 +82,11 @@ collections:
   - label: "Hoflädle - Schnaps"
     name: "schnaps"
     file: "src/_includes/schnaps.md"
+    fields:
+    - {label: "Body", name: "body", widget: "markdown" }
+  - label: "Öffnungszeiten"
+    name: "öffnungszeiten"
+    file: "src/_includes/offnungszeiten.md"
     fields:
     - {label: "Body", name: "body", widget: "markdown" }
   - label: "Brennerei"
