@@ -18,7 +18,7 @@ Montag geschlossen\
 
 Während unserer Besenöffnungszeit bekommen Sie samstags auch unsere leckeren Mini-Marmorkuchen bei uns.
 
-
+![](/assets/img/im_brueckle_marken.png)
 
 ![](/assets/img/hoflaedle-01.jpg)
 
