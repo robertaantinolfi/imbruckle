@@ -17,7 +17,7 @@ Tannenhonig, 500g\
 
 <br>
 
-Tannenhonig, 500g
+honig, 500g
 
 9,50€ (19,00€/kg)
 
