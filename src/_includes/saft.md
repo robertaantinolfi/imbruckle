@@ -1,6 +1,6 @@
 **Saft**
 
-Traubensaft naturtrüb*\
+Traubensaft*\
 rot oder weiß\
 1,0l, 3,50€\
 <br>
