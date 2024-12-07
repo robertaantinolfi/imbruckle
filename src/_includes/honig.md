@@ -14,3 +14,8 @@ Akazienhonig, 500g\
 
 Tannenhonig, 500g\
 9,50€ (19,00€/kg)
+
+<br>
+
+Waldhonig, 500g\
+9,50€ (19,00€/kg)
