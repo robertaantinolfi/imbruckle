@@ -8,6 +8,19 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 ![](/assets/img/01_im_brueckle_01.gif)
 
+<br>
+
+**Aktuelles**\
+<br>\
+Liebe Kunden, Gäste und Freunde,
+
+wir wünschen Ihnen erholsame und schöne Weihnachtsfeiertage,\
+einen fröhlichen Jahresausklang\
+und ein gutes und gesundes neues Jahr.
+
+Ihre Familie Volz\
+<br>
+
 ![](/assets/img/01_im_brueckle_02.gif)
 
 ![](/assets/img/01_im_brueckle_03.gif)
