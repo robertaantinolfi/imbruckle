@@ -12,11 +12,13 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles**\
 <br>\
-Liebe Kunden, Gäste und Freunde,
+Liebe Kunden, Gäste und Freunde,\
+<br>
 
 wir wünschen Ihnen erholsame und schöne Weihnachtsfeiertage,\
 einen fröhlichen Jahresausklang\
-und ein gutes und gesundes neues Jahr.
+und ein gutes und gesundes neues Jahr.\
+<br>
 
 Ihre Familie Volz\
 <br>
