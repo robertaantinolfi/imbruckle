@@ -21,10 +21,6 @@ Unsere Weinlaube bietet in der Saison Platz für über 90 Gäste. Wir freuen uns
 
 <br>
 
-Bitte informieren Sie sich auf unserer Webseite über die aktuellen Öffnungen.
-
-<br>
-
 **Besenstube**
 
 Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer sicher gehen möchte, darf sich gern im Voraus anmelden. Parkplätze für PKW und Busse sind direkt am Haus.  
@@ -33,7 +29,7 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 
 **Scheune**
 
-Von Mai bis September vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
+Von Mai bis August vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
 
 <br>
 
