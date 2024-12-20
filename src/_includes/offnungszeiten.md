@@ -16,6 +16,9 @@ von 09:00 bis 11:00 Uhr\
 Montag geschlossen\
 <br>
 
+**An Heiligabend, Silvester, sowie am 2. Januar haben wir geschlossen.**\
+<br>
+
 Während unserer Besenöffnungszeit bekommen Sie samstags auch unsere leckeren Mini-Marmorkuchen bei uns.
 
 ![](/assets/img/im_brueckle_marken.png)
