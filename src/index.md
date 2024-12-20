@@ -23,7 +23,7 @@ und ein gutes und gesundes neues Jahr.\
 Ihre Familie Volz\
 <br>
 
-![](/assets/img/01_im_brueckle_02.gif)
+![](/assets/img/hoflaedle-01.jpg)
 
 ![](/assets/img/01_im_brueckle_03.gif)
 
