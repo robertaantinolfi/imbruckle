@@ -5,7 +5,7 @@ Leberwurst\
 400g, 5,00€ (1,25€/100g)\
 <br>
 
-Griebenwurst\
+Griebenwurst (Blutwurst)\
 200g, 3,50€ (1,75 €/100g)\
 400g, 5,00€ (1,25€/100g)\
 <br>
