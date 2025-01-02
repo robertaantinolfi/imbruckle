@@ -8,6 +8,8 @@ vom 5. Januar bis zum 19. Januar 2025 (6. Januar geöffnet)
 
 vom 23. Februar bis zum 9. März 2025
 
+vom 8. Juni bis zum 15. Juni 2025 (Pfingstmontag, 9. Juni geöffnet)
+
 <br>
 
 Dienstag bis Samstag\
