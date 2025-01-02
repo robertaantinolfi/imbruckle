@@ -17,7 +17,7 @@ St. Laurent trocken*\
 <br>
 
 Monarch°*\
-0,75l, 6,00€ (8,00€/l)\
+0,75l 6,00€ (8,00€/l)\
 <br>
 
 Regent trocken°*\
