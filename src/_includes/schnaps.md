@@ -17,7 +17,7 @@ Himbeergeist\
 <br>
 
 Holunderbeere*\
-0,5l 14,00€ (30,00€/l)\
+0,5l 14,00€ (28,00€/l)\
 <br>
 
 Kirschbrand*\
@@ -44,7 +44,7 @@ ausverkauft\
 
 Quittenbrand*\
 0,5l 15,00€ (30,00€/l)\
-1,0l, 24,00€\
+1,0l 24,00€\
 <br>
 
 Schweizer-Wasser Birnenbrand*\
