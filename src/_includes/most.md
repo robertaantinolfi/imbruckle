@@ -1,4 +1,4 @@
 **Most***
 
 Apfel-Birnen-Most trocken\
-1,0l, 3,00€
+1,0l 3,50€
