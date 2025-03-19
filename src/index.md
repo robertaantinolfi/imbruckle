@@ -29,7 +29,7 @@ Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auc
 Nach 35 Jahren ist es an der Zeit für den Hintern unserer Gäste etwas Gutes zu tun:\
 Zum 50jährigen Jubiläum gibt es neue Stühle! Es kann Probegesessen werden. Die nächsten Öffnungszeiten der Weinlaube stehen unter der Rubrik "Weinlaube".
 
-![](/assets/img/01_im_brueckle_03.gif)
+![](/assets/img/jubilaeum_02.jpg)
 
 ![](/assets/img/01_im_brueckle_04.gif)
 
