@@ -12,16 +12,16 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles**\
 <br>\
-Liebe Kunden, Gäste und Freunde,\
-<br>
+**50 Jahre Besenwirtschaft**\
+**1975 - 2025**
 
-wir wünschen Ihnen erholsame und schöne Weihnachtsfeiertage,\
-einen fröhlichen Jahresausklang\
-und ein gutes und gesundes neues Jahr.\
-<br>
-
-Ihre Familie Volz\
-<br>
+<br>\
+Unser *Jubiläumswein "Cuvée 50"* so lange der Vorrat reicht bei uns im Lädle oder im Ausschank in der Weinlaube erhältlich.\
+Ein dunkler Rotwein ganz ohne Restsüße, also zu 100% trocken, \
+besteht aus 50% Dornfelder und 50% Monarch.\
+Der Dornfelder, eine alte Württembergische Züchtung aus Weinsberg, steht für die Gründergeneration \
+und der Monarch, eine junge Rebsorte, aus dem Dornfelder herausgezüchtet im Badischen Freiburg und pilzwiderstandsfähig, steht für die Folgegeneration und die Zukunft.\
+Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auch den Geschmack betrifft.
 
 ![](/assets/img/hoflaedle-01.jpg)
 
