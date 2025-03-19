@@ -16,6 +16,11 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 **1975 - 2025**
 
 <br>\
+*Unser nächstes Event:*\
+Offene Weinprobe am 4. April 2025 ab 16 - 21 Uhr\
+Probieren Sie alle unsere Bio-Weine aus unserem großen Sortiment und finden Sie Ihren Lieblingswein. Dazu gibt es kleine Häppchen. Kosten: 10 Euro pro Person.
+
+<br>\
 Unser *Jubiläumswein "Cuvée 50"* so lange der Vorrat reicht bei uns im Lädle oder im Ausschank in der Weinlaube erhältlich.\
 Ein dunkler Rotwein ganz ohne Restsüße, also zu 100% trocken, \
 besteht aus 50% Dornfelder und 50% Monarch.\
