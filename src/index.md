@@ -23,7 +23,7 @@ Der Dornfelder, eine alte Württembergische Züchtung aus Weinsberg, steht für 
 und der Monarch, eine junge Rebsorte, aus dem Dornfelder herausgezüchtet im Badischen Freiburg und pilzwiderstandsfähig, steht für die Folgegeneration und die Zukunft.\
 Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auch den Geschmack betrifft.
 
-![](/assets/img/hoflaedle-01.jpg)
+![](/assets/img/jubilaeum_01.jpg)
 
 ![](/assets/img/01_im_brueckle_03.gif)
 
