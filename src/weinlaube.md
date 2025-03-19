@@ -18,7 +18,7 @@ vom 26. Oktober bis zum 16. November 2025
 
 Dienstag bis Samstag\
 ab 12 Uhr bis 23 Uhr\
-Sonntag ab 12 Uhr bis 21 Uhr\
+Sonntag und Feiertag ab 12 Uhr bis 21 Uhr\
 Montag ist Ruhetag.  
 
 <br>
