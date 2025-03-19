@@ -10,6 +10,10 @@ vom 23. Februar bis zum 9. März 2025
 
 vom 8. Juni bis zum 15. Juni 2025 (Pfingstmontag, 9. Juni geöffnet)
 
+vom 3. August bis zum 17. August 2025
+
+vom 26. Oktober bis zum 16. November 2025
+
 <br>
 
 Dienstag bis Samstag\
