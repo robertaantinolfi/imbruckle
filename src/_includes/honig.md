@@ -17,4 +17,8 @@ Tannenhonig, 500g\
 <br>
 
 Waldhonig, 500g\
-9,50€ (1,90€/100g)
+9,50€ (1,90€/100g)\
+<br>
+
+Blütenpollen, 250g\
+12,00€ (4,80€/100g)
