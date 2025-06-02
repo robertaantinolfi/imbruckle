@@ -39,7 +39,7 @@ Von Mai bis August vermieten wir unsere Scheune für Familienfeste oder Firmenfe
 
 <br>
 
-<a href="/assets/img/karte_januar2025_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
+<a href="/assets/img/karte_Juni2025_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
 
 <br>
 
