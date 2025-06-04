@@ -12,6 +12,8 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles**\
 <br>\
+Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
+<br>\
 **50 Jahre Besenwirtschaft**\
 **1975 - 2025**
 
