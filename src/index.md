@@ -18,20 +18,20 @@ Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
 **1975 - 2025**
 
 <br>\
-*Unser nächstes Event:*\
-Offene Weinprobe am 4. April 2025 ab 16 - 21 Uhr\
-Probieren Sie alle unsere Bio-Weine aus unserem großen Sortiment und finden Sie Ihren Lieblingswein. Dazu gibt es kleine Häppchen. Kosten: 10 Euro pro Person.
+***Unser nächstes Event:***
 
-<br>\
-Unser *Jubiläumswein "Cuvée 50"* so lange der Vorrat reicht bei uns im Lädle oder im Ausschank in der Weinlaube erhältlich.\
-Ein dunkler Rotwein ganz ohne Restsüße, also zu 100% trocken, \
-besteht aus 50% Dornfelder und 50% Monarch.\
-Der Dornfelder, eine alte Württembergische Züchtung aus Weinsberg, steht für die Gründergeneration \
-und der Monarch, eine junge Rebsorte, aus dem Dornfelder herausgezüchtet im Badischen Freiburg und pilzwiderstandsfähig, steht für die Folgegeneration und die Zukunft.\
+![](/assets/img/img_1302_weinprobe_vitalstoffanbend.jpg)
+
+<br>
+
+
+Unser *Jubiläumswein "Cuvée 50",* so lange der Vorrat reicht, bei uns im Lädle oder im Ausschank in der Weinlaube erhältlich.
+Ein dunkler Rotwein ganz ohne Restsüße, also zu 100% trocken, 
+besteht aus 50% Dornfelder und 50% Monarch.
+Der Dornfelder, eine alte Württembergische Züchtung aus Weinsberg, steht für die Gründergeneration 
+und der Monarch, eine junge Rebsorte, aus dem Dornfelder herausgezüchtet im Badischen Freiburg und pilzwiderstandsfähig, steht für die Folgegeneration und die Zukunft.
 Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auch den Geschmack betrifft.
-
-![](/assets/img/jubilaeum_01.jpg)
-
+\
 <br>\
 Nach 35 Jahren ist es an der Zeit für den Hintern unserer Gäste etwas Gutes zu tun:\
 Zum 50jährigen Jubiläum gibt es neue Stühle! Es kann Probegesessen werden. Die nächsten Öffnungszeiten der Weinlaube stehen unter der Rubrik "Weinlaube".
