@@ -3,7 +3,10 @@ DE-ÖKO-006\
 °Pilzwiderstandsfähige Rebsorte
 <br><br>
 
-**Öffnungszeiten**
+**Öffnungszeiten**\
+<br>\
+**Bitte beachten: Am Donnerstag, 28.08.25 haben wir geschlossen!**\
+<br>
 
 Dienstag bis Freitag\
 von 17:00 bis 19:00 Uhr\
