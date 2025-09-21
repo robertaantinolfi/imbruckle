@@ -10,20 +10,27 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 <br>
 
-**Aktuelles**\
-<br>\
-Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
-<br>\
-**50 Jahre Besenwirtschaft**\
-**1975 - 2025**
-
-<br>\
-***Unser nächstes Event:***
-
-![](/assets/img/img_1302_weinprobe_vitalstoffanbend.jpg)
+* **Aktuelles**\
+  <br>\
+  Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
+  <br>\
+  **50 Jahre Besenwirtschaft**\
+  **1975 - 2025**
 
 <br>
 
+**Liebe Kunden,**\
+da durch **Sanierungsarbeiten** der Leonbergerstraße unsere offizielle Zufahrt ab dem **23.09.2025 gesperrt** ist, sind wir nur über Feldwege zu erreichen. (siehe Skizze)\
+Achten Sie bitte auf Radfahrer, Spaziergänger und landwirtschaftliche Verkehrsteilnehmer.\
+Ermöglichen Sie bitte Begegnungsverkehr, wenn es möglich ist.
+
+
+
+![](/assets/img/img_2297.jpg)
+
+
+
+<br>
 
 Unser *Jubiläumswein "Cuvée 50",* so lange der Vorrat reicht, bei uns im Lädle oder im Ausschank in der Weinlaube erhältlich.
 Ein dunkler Rotwein ganz ohne Restsüße, also zu 100% trocken, 
