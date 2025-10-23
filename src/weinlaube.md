@@ -4,15 +4,13 @@ layout: weinlaube.njk
 ---
 **Weinlaube**
 
-vom 5. Januar bis zum 19. Januar 2025 (6. Januar geöffnet)
-
-vom 23. Februar bis zum 9. März 2025
-
-vom 8. Juni bis zum 15. Juni 2025 (Pfingstmontag, 9. Juni geöffnet)
-
-vom 3. August bis zum 17. August 2025
-
 vom 26. Oktober bis zum 16. November 2025
+
+vom 8. Februar bis zum 22. Februar 2026
+
+vom 5. April (Ostersonntag) bis zum 19. April 2026 (Ostermontag geöffnet)
+
+vom 31. Mai bis zum 14. Juni 2026
 
 <br>
 
