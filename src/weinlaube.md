@@ -41,6 +41,8 @@ Von Mai bis August vermieten wir unsere Scheune für Familienfeste oder Firmenfe
 
 <br>
 
+![](/assets/img/01_weinlaube_05.jpg)
+
 ![](/assets/img/01_weinlaube_01.jpeg)
 
 ![](/assets/img/01_weinlaube_02.jpeg)
