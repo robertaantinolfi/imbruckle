@@ -5,9 +5,9 @@ DE-ÖKO-006\
 
 **Öffnungszeiten**\
 <br>\
-**Bitte beachten: Freitag, 3. Oktober haben wir aufgrund des Feiertags geschlossen!**\
-**Am Samstag, 4. Oktober ist geöffnet von 9-11 Uhr:**\
-**Folgende Backwaren wird es geben: Bauernbrot, Dinkelvollkornbrot und Hefezöpfe**\
+**Wir haben vom 24.12.2025 bis 01.01.2026 geschlossen,**\
+**Fr. 02.01. und Sa. 03.01.2026 geöffnet,**\
+**Di. 06.01.2026 geschlossen.**\
 <br>
 
 Dienstag bis Freitag\
