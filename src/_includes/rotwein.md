@@ -36,5 +36,5 @@ Cuvée 50 trocken*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
-Glühwein rot\
+**Glühwein rot**\
 1,0l 6,50€
