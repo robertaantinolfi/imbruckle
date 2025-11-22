@@ -20,7 +20,7 @@ Monarch°*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
-Regent trocken°*\
+Regent°*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
@@ -33,4 +33,8 @@ Dornfelder trocken*\
 <br>
 
 Cuvée 50 trocken*\
-0,75l 6,00€ (8,00€/l)
+0,75l 6,00€ (8,00€/l)\
+<br>
+
+Glühwein rot\
+1,0l 6,50€
