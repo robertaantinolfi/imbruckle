@@ -11,6 +11,10 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 <br>
 
 * **Aktuelles**\
+  <br>
+
+  ![](/assets/img/s-brückle_glüht1.jpg)
+
   <br>\
   Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
   <br>\
@@ -33,7 +37,6 @@ Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auc
 <br>
 
 ![](/assets/img/jubilaeum_01.jpg)
-
 
 \
 <br>\
