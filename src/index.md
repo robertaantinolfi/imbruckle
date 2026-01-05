@@ -19,8 +19,6 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 <br>
 
-
-
 ![]()
 
 <br>
@@ -31,6 +29,12 @@ besteht aus 50% Dornfelder und 50% Monarch.
 Der Dornfelder, eine alte Württembergische Züchtung aus Weinsberg, steht für die Gründergeneration 
 und der Monarch, eine junge Rebsorte, aus dem Dornfelder herausgezüchtet im Badischen Freiburg und pilzwiderstandsfähig, steht für die Folgegeneration und die Zukunft.
 Wir finden, es ist eine sehr gelungene Cuvée - was sowohl die Bedeutung als auch den Geschmack betrifft.
+
+<br>
+
+![](/assets/img/jubilaeum_01.jpg)
+
+
 \
 <br>\
 Nach 35 Jahren ist es an der Zeit für den Hintern unserer Gäste etwas Gutes zu tun:\
