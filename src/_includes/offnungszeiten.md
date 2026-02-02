@@ -1,13 +1,9 @@
-\*Biologisches Erzeungnis\
+\*Biologisches Erzeugnis\
 DE-ÖKO-006\
 °Pilzwiderstandsfähige Rebsorte
 <br><br>
 
 **Öffnungszeiten**\
-<br>\
-**Wir haben vom 24.12.2025 bis 01.01.2026 geschlossen,**\
-**Fr. 02.01. und Sa. 03.01.2026 geöffnet,**\
-**Di. 06.01.2026 geschlossen.**\
 <br>
 
 Dienstag bis Freitag\
