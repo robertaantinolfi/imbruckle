@@ -8,6 +8,10 @@ Rapshonig, 500g\
 7,50€ (1,50€/100g)\
 <br>
 
+Sommerblüten-Ahornhonig, 500g\
+8,50€ 1,70€/100g)\
+<br>
+
 Akazienhonig, 500g\
 8,50€ (1,70€/100g)\
 <br>
