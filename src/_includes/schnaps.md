@@ -48,7 +48,8 @@ Quittenbrand*\
 <br>
 
 Schlehe*\
-0,5l 18,00€ (36,00€/l)
+0,5l 18,00€ (36,00€/l)\
+<br>
 
 Schweizer-Wasser Birnenbrand*\
 1,0l 20,00€\
