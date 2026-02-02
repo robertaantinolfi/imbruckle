@@ -27,5 +27,5 @@ Griebenschmalz\
 250g Becher, 3,50 (1,40€/100g)\
 <br>
 
-Griebenschmalz mit Chilli\
+Griebenschmalz mit Chili\
 250g Becher, 3,50 (1,40€/100g)
