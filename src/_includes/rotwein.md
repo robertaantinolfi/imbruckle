@@ -8,7 +8,7 @@ Trollinger mit Lemberger*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
-Muskat-Trollinger*\
+Muskat-Trollinger trocken*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
