@@ -47,12 +47,15 @@ Quittenbrand*\
 1,0l 24,00€\
 <br>
 
+Schlehe*\
+0,5l 18,00€ (36,00€/l)
+
 Schweizer-Wasser Birnenbrand*\
 1,0l 20,00€\
 <br>
 
 Speierlingbrand*\
-0,375l 41,00€ (109,33€/l)\
+0,35l 38,00€ (108,57€/l)\
 <br>
 
 Vogelbeere*\
