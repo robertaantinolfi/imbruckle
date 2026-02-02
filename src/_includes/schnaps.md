@@ -34,7 +34,7 @@ Mirabellenbrand*\
 1,0l 22,00€\
 <br>
 
-Obstbrand aus Äpfel und Birnen*\
+Obstbrand aus Äpfeln und Birnen*\
 1,0l 14,00€\
 <br>
 
