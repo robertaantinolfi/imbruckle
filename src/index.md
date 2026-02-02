@@ -12,7 +12,9 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles:**
 
-![](/assets/img/s-brückle_glüht1.jpg)
+Besenzeit: 8. - 22. Februar 2026
+
+![]()
 
 <br>\
 Unsere Besenöffnungszeiten finden Sie unter dem Reiter "Weinlaube".\
