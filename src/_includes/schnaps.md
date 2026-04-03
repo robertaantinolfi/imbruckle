@@ -39,7 +39,7 @@ Obstbrand aus Äpfeln und Birnen*\
 <br>
 
 Palmisch Birnenbrand*\
-ausverkauft\
+0,5l 18,00€ (36,00€/l)\
 <br>
 
 Quittenbrand*\
