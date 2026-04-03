@@ -12,6 +12,10 @@ vom 5. April (Ostersonntag) bis zum 19. April 2026 (Ostermontag geöffnet)
 
 vom 31. Mai bis zum 14. Juni 2026
 
+vom 2. August bis zum 16. August 2026
+
+vom 25. Oktober bis zum 15. November 2026
+
 <br>
 
 Dienstag bis Samstag\
