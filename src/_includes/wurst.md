@@ -23,6 +23,26 @@ Schmalzfleisch\
 400g, 5,00€ (1,25€/100g)\
 <br>
 
+Jagdwurst\
+200g, 4,00€ (2,00€/100g)\
+380g, 6,00€ (1,58€/100g)\
+<br>
+
+Fleischkäse fein\
+200g, 4,00€ (2,00€/100g)\
+380g, 6,00€ (1,58€/100g)\
+<br>
+
+Paprika-Lyoner\
+200g, 4,00€ (2,00€/100g)\
+380g, 6,00€ (1,58€/100g)\
+<br>
+
+Champignon-Lyoner\
+200g, 4,00€ (2,00€/100g)\
+380g, 6,00€ (1,58€/100g)\
+<br>
+
 Griebenschmalz\
 250g Becher, 3,50 (1,40€/100g)\
 <br>
