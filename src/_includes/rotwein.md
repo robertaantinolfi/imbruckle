@@ -12,7 +12,7 @@ Muskat-Trollinger trocken*\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
-St. Laurent trocken*\
+St. Laurent trocken* (ausverkauft)\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
