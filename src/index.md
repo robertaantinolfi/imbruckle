@@ -12,7 +12,7 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles:**
 
-Besenzeit: 8. - 22. Februar 2026
+Besenzeit: 5.-19. April 2026
 
 ![]()
 
