@@ -35,13 +35,7 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 
 <br>
 
-**Scheune**
-
-Von Mai bis August vermieten wir unsere Scheune für Familienfeste oder Firmenfeiern. Freie Termine können Sie per E-Mail oder telefonisch bei uns anfragen.
-
-<br>
-
-<a href="/assets/img/karte_april2026_ohne_preis.pdf" target="_blank">**Speisekarte**</a>
+<a href="/assets/img/karte_juni2026_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
 
 <br>
 
