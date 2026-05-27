@@ -9,4 +9,8 @@ Lemberger Rosé trocken*\
 <br>
 
 Muskattrollinger Rosé trocken*\
+0,75l 6,00€ (8,00€/l)\
+<br>
+
+Trollinger Rosé trocken*\
 0,75l 6,00€ (8,00€/l)
