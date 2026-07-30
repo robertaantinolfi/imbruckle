@@ -4,12 +4,12 @@ Kerner*\
 1,0l 6,00€\
 <br>
 
-Müller-Thurgau trocken* \
+Müller-Thurgau trocken* (ausverkauft)\
 0,75l 6,00€ (8,00€/l)\
 <br>
 
-Riesling trocken* (ausverkauft)\
-0,75l 6,00€ (8,00€/l)\
+Riesling trocken*\
+0,75l 7,00€ (9,33€/l)\
 <br>
 
 Solaris trocken°*\
@@ -17,4 +17,8 @@ Solaris trocken°*\
 <br>
 
 Gewürztraminer trocken*\
-0,75l, 7,00€ (€9,33€/l)
+0,75l 7,00€ (9,33€/l)\
+<br>
+
+Weißburgunder trocken*\
+0,75l 7,00€ (9,33€/l)
