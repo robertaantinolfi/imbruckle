@@ -20,5 +20,5 @@ Gewürztraminer trocken*\
 0,75l 7,00€ (9,33€/l)\
 <br>
 
-Weißburgunder trocken*\
+Weißburgunder trocken\
 0,75l 7,00€ (9,33€/l)
