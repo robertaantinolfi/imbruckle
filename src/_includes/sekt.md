@@ -1,4 +1,4 @@
 **Sekt**
 
-Muskat-Trollinger trocken*\
-ausverkauft
+Riesling trocken*\
+bald verfügbar
