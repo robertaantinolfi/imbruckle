@@ -35,7 +35,7 @@ Unsere urige Besenstube ist wetterfest und bietet bis zu 60 Gästen Platz. Wer s
 
 <br>
 
-<a href="/assets/img/karte_juni2026_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
+<a href="/assets/img/karte_august2026_ohnePreis.pdf" target="_blank">**Speisekarte**</a>
 
 <br>
 
