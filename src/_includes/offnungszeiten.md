@@ -6,6 +6,9 @@ DE-ÖKO-006\
 **Öffnungszeiten**\
 <br>
 
+**Bitte beachten: Am Dienstag, 18.08.2026 haben wir unser Lädle ausnahmsweise geschlossen!**\
+<br>
+
 Dienstag bis Freitag\
 von 17:00 bis 19:00 Uhr\
 <br>
