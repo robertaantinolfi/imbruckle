@@ -12,7 +12,7 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles:**
 
-Besenzeit: 2. - 16. August 2026
+Nächste Besenzeit: 25. Oktober bis 15. November
 
 ![]()
 
