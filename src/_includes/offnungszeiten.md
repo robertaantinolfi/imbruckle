@@ -7,7 +7,7 @@ DE-ÖKO-006\
 <br>
 
 **Bitte beachten:**\
-<br>\
+\
 **Samstag, 03.10.26 ist Feiertag (Tag der deutschen Einheit): Lädle geschlossen!**\
 **Freitag, 02.10.26 von 17-19 Uhr geöffnet; folgende Backwaren gibt es:**\
 **Bauernbrot, Dinkelvollkornbrot, Hefezöpfe und Amerikaner**\
