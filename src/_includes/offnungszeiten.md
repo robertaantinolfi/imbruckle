@@ -6,7 +6,9 @@ DE-ÖKO-006\
 **Öffnungszeiten**\
 <br>
 
-**Bitte beachten:**\
+**Bitte beachten:**
+
+**Am Mittwoch, 30.09.26 ausnahmsweise geschlossen!**\
 \
 **Samstag, 03.10.26 ist Feiertag (Tag der deutschen Einheit): Lädle geschlossen!**\
 **Freitag, 02.10.26 von 17-19 Uhr geöffnet; folgende Backwaren gibt es:**\
