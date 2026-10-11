@@ -29,7 +29,7 @@ USt.-Id: DE 259 842 399\
 
 **Gewährleistung**
 
-Wir bemühen uns um möglichst korrekte und aktuelle Information. Trotzdem können Fehler auftreten. Die Inhalte wurden sorgfältig erarbeitet. Dennoch übernehmen Autoren und Herausgeber keine Gewähr und Haftung für die Richtigkeit, Zuverlässigkeit, Vollständigkeit und Aktualität der Information. Die Verwendung der Webseite und der darin enthaltenen Informationen erfolgt auf eigene Gefahr. Änderungen können jederzeit vorgenommen werden.\
+Wir bemühen uns um möglichst korrekte und aktuelle Information. Trotzdem können Fehler auftreten. Die Inhalte wurden sorgfältig erarbeitet. Dennoch übernehmen Autoren und Herausgeber keine Gewähr und Haftung für die Richtigkeit, Zuverlässigkeit, Vollständigkeit und Aktualität der Information. Die Verwendung der Webseite und der darin enthaltenen Informationen erfolgt auf eigene Gefahr. Änderungen können jederzeit vorgenommen werden..\
 <br>
 
 **Rechtliche Hinweise**
