@@ -477,6 +477,8 @@ footer p {
     padding: 15px;
 }
 
+.social-kontakt { display: flex; gap: 20px; align-items: center; margin-top: 20px; }
+
 #im-bruckle-active,
 #im-bruckle:hover {
     background: rgb(130, 100, 190);
