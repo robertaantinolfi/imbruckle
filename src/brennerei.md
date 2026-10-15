@@ -4,7 +4,10 @@ title: Brennerei
 ---
 **Brennerei**
 
-Seit vielen Jahren brennen wir unsere eigenen Schnäpse und stellen auch Liköre her. Alle diese guten Tropfen sind in unserem Lädle erhältlich und in der Weinlaube im Ausschank. Aus Ihrem eigenen Obst brennen wir gerne Ihren Schnaps für Sie. Melden Sie sich bei uns und lassen Sie sich beraten.
+Seit vielen Jahren brennen wir unsere eigenen Schnäpse und stellen auch Liköre her. Alle diese guten Tropfen sind in unserem Lädle erhältlich und in der Weinlaube im Ausschank. Aus Ihrem eigenen Obst brennen wir gerne Ihren Schnaps für Sie. Melden Sie sich bei uns und lassen Sie sich beraten.\
+<br>
+
+Falls Sie momentan fertig vergorene Maische oder Most zum Brennen haben, dann können Sie diese in der ersten Novemberwoche mit Ihrem Namen und Anschrift versehen vorbeibringen. Gebrannt wird dann Ende November und im Dezember.
 
 ![](/assets/img/01_brennerei_01.gif)
 
