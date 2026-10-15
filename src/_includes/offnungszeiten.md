@@ -6,26 +6,11 @@ DE-ÖKO-006\
 **Öffnungszeiten**\
 <br>
 
-**Bitte beachten:**
-
-**Am Mittwoch, 30.09.26 ausnahmsweise geschlossen!**\
-\
-**Samstag, 03.10.26 ist Feiertag (Tag der deutschen Einheit): Lädle geschlossen!**\
-**Freitag, 02.10.26 von 17-19 Uhr geöffnet; folgende Backwaren gibt es:**\
-**Bauernbrot, Dinkelvollkornbrot, Hefezöpfe und Amerikaner**\
-<br>
-
-**Freitag, 09.10.26 und Samstag, 10.10.26 wird nicht gebacken!**\
-**Unser Lädle ist aber trotzdem zu den gewohnten Zeiten geöffnet.**\
-<br>
-
 Dienstag bis Freitag\
-von 17:00 bis 19:00 Uhr\
-<br>
+von 17:00 bis 19:00 Uhr
 
 Samstag\
-von 09:00 bis 11:00 Uhr\
-<br>
+von 09:00 bis 11:00 Uhr
 
 Montag geschlossen\
 <br>
