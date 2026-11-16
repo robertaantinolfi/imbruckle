@@ -12,8 +12,6 @@ Herzlich Willkommen im Brückle! Wir betreiben Weinbau bereits in der dritten Ge
 
 **Aktuelles:**
 
-Nächste Besenzeit: 25. Oktober bis 15. November
-
 <br>\
 **Unbedingt vormerken!!**\
 Am **Samstag, 9. Januar 2027 und Samstag, 16. Januar 2027**\
