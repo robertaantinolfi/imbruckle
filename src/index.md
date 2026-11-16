@@ -21,6 +21,10 @@ Am **Samstag, 9. Januar 2027 und Samstag, 16. Januar 2027**\
 Wir freuen uns, Sie und Euch bei uns im Hof und in der Scheune \
 bei Glühwein, leckeren Speisen und Lagerfeuer begrüßen zu dürfen.
 
+<br>
+
+![](/assets/img/glühwein2027.jpg)
+
 ![]()
 
 <br>\
