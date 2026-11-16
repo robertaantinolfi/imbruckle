@@ -4,9 +4,9 @@ layout: weinlaube.njk
 ---
 **Weinlaube**
 
-vom 25. Oktober bis zum 15. November 2026
+vom 7. Februar bis zum 28. Februar 2027
 
-vom 7. April bis zum 25. April 2027
+vom 4. April bis zum 25. April 2027
 
 vom 20. Juni bis zum 4. Juli 2027
 
